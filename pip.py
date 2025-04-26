@@ -1,0 +1,1 @@
+"pip install fastapi uvicorn redis sentence-transformers rank_bm25 uvicorn api.search_api:app --port 8000
